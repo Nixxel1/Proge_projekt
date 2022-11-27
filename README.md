@@ -1,2 +1,2 @@
-# Proge_projekt
-Proge_projekt
+# Programmeerimise projekt
+Programm, mis suudab funktsioone uurida
