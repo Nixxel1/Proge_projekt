@@ -57,5 +57,5 @@ try:
     
 except:
     None
-    
+plt.ylim(-5,5)
 plt.show()
